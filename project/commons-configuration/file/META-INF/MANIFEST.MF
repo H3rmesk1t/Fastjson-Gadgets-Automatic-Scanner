@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.commons.configuration;version="1.10",org.apac
+ he.commons.configuration.beanutils;version="1.10",org.apache.commons.co
+ nfiguration.event;version="1.10",org.apache.commons.configuration.inter
+ pol;version="1.10",org.apache.commons.configuration.plist;version="1.10
+ ",org.apache.commons.configuration.reloading;version="1.10",org.apache.
+ commons.configuration.resolver;version="1.10",org.apache.commons.config
+ uration.tree;version="1.10",org.apache.commons.configuration.tree.xpath
+ ;version="1.10",org.apache.commons.configuration.web;version="1.10"
+Private-Package: PropertyList-1.0.dtd,digesterRules.xml,properties.dtd
+Implementation-Title: Apache Commons Configuration
+Built-By: henning
+Tool: Bnd-2.1.0.20130426-122213
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Specification-Title: Apache Commons Configuration
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.commons.configuration
+X-Compile-Target-JDK: 1.5
+Implementation-Version: 1.10
+Specification-Vendor: The Apache Software Foundation
+Bundle-Name: Apache Commons Configuration
+Created-By: Apache Maven Bundle Plugin
+X-Compile-Source-JDK: 1.5
+Bundle-Vendor: The Apache Software Foundation
+Build-Jdk: 1.7.0_25
+Bundle-Version: 1.10.0
+Bnd-LastModified: 1382602834342
+Bundle-ManifestVersion: 2
+Bundle-Description: Tools to assist in the reading of configuration/pref
+ erences files in various formats.
+Bundle-DocURL: http://commons.apache.org/configuration/
+Import-Package: org.apache.commons.beanutils;resolution:=optional,org.ap
+ ache.commons.digester;resolution:=optional,org.apache.commons.digester.
+ substitution;resolution:=optional,org.apache.commons.digester.xmlrules;
+ resolution:=optional,org.apache.commons.collections;resolution:=optiona
+ l,org.apache.commons.codec.binary;resolution:=optional,org.apache.commo
+ ns.jxpath;resolution:=optional,org.apache.commons.jxpath.ri;resolution:
+ =optional,org.apache.commons.jxpath.ri.compiler;resolution:=optional,or
+ g.apache.commons.jxpath.ri.model;resolution:=optional,org.apache.xml.re
+ solver;resolution:=optional,org.apache.xml.resolver.helpers;resolution:
+ =optional,org.apache.xml.resolver.readers;resolution:=optional,org.apac
+ he.xml.resolver.tools;resolution:=optional,javax.servlet;resolution:=op
+ tional,org.apache.commons.jexl2;resolution:=optional,org.apache.commons
+ .vfs2;resolution:=optional,org.apache.commons.vfs2.provider;resolution:
+ =optional,javax.naming,javax.sql,javax.xml.parsers,javax.xml.transform,
+ javax.xml.transform.dom,javax.xml.transform.stream,org.apache.commons.l
+ ang,org.apache.commons.lang.exception,org.apache.commons.lang.text,org.
+ apache.commons.logging,org.apache.commons.logging.impl,org.w3c.dom,org.
+ xml.sax,org.xml.sax.helpers
+Include-Resource: digesterRules.xml=src/main/resources/digesterRules.xml
+ ,properties.dtd=src/main/resources/properties.dtd,PropertyList-1.0.dtd=
+ src/main/resources/PropertyList-1.0.dtd,META-INF/LICENSE.txt=LICENSE.tx
+ t,META-INF/NOTICE.txt=NOTICE.txt
+Specification-Version: 1.10
+Implementation-Build: tags/CONFIGURATION_1_10RC2@r1535308; 2013-10-24 01
+ :20:22-0700
+Archiver-Version: Plexus Archiver
+

@@ -47,9 +47,9 @@ def jar_process(jar, operating_system):
     """
     # Process the jar package path according to the operating system.
     if operating_system == 'Windows':
-        jar_name = jar.split('\\')[-1].split('.')[-2]
+        jar_name = jar.split('\\')[-1].split('.')[0]
     elif operating_system == 'Linux' or operating_system == 'MacOS':
-        jar_name = jar.split('/')[-1].split('.')[-2]
+        jar_name = jar.split('/')[-1].split('.')[0]
 
     jar_dir = './project/' + jar_name
     jar_file_dir = './project/' + jar_name + '/file'

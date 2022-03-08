@@ -46,3 +46,6 @@ optional arguments:
 
 ![](./usage_two.png)
 
+## Finally
+In particular, this project is limited to mining Gadgets that may be exploited, and screening results need to be excluded by themselves.
+

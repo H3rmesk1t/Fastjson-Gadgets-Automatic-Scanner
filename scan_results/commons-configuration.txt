@@ -1,0 +1,6 @@
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/commons-configuration/file/org/apache/commons/configuration/JNDIConfiguration.java
+[+] method_declaration_name: containsKey
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/commons-configuration/file/org/apache/commons/configuration/JNDIConfiguration.java
+[+] method_declaration_name: getProperty
+

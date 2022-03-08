@@ -1,0 +1,3 @@
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/ojdbc14/file/oracle/jdbc/connector/OracleManagedConnectionFactory.java
+[+] method_declaration_name: setupXADataSource
+

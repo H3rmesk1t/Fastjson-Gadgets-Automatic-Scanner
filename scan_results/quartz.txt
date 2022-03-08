@@ -1,0 +1,30 @@
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: init
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: getConnection
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: init
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: getConnection
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: init
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: getConnection
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: init
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: getConnection
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: init
+
+[+] java_file: /Users/h3rmesk1t/Desktop/Fastjson-Gadgets-Automatic-Scanner/project/quartz/file/org/quartz/utils/JNDIConnectionProvider.java
+[+] method_declaration_name: getConnection
+

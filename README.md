@@ -26,3 +26,23 @@ According to the above description, we can roughly describe the logic of the pro
  - Generating Abstract Syntax Tree based on Java source files.
  - Conditionally judge the syntax tree and filter out the classes that meet the conditions.
  - According to the filtering results, try to construct the POC.
+
+![Project Logic](./code_logic.png)
+
+## Usage
+
+```shell
+usage: python main.py [-h] jar operating_system
+
+positional arguments:
+  jar               Enter the jar to be scanned
+  operating_system  Enter the operating system Windows or Linux or MacOS
+
+optional arguments:
+  -h, --help        show this help message and exit
+```
+
+![](./usage_one.png)
+
+![](./usage_two.png)
+
